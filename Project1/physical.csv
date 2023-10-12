@@ -1,13 +1,13 @@
-ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name
-1075838979::139,EMPLOYEE,Table,Employee,Employee
-1075838979::141,MOVIE,Table,Movie,Movie
-1075838979::143,STORE,Table,Store,Store
-1075838979::158,MOVIE RENTAL RECORD,Table,Movie Rental Record,MovieRentalRecord
-1075838979::160,MOVIE COPY,Table,Movie Copy,MovieCopy
-1075838979::242,CUSTOMER,Table,Customer,Customer
-1075838979::262,CUSTOMER CREDIT,Table,Customer Credit,CustomerCredit
-1075838979::326,MOVIE_STORE,Table,Movie Store,Movie Store
-1075838979::338,PAYMENT,Table,Payment,Payment
-1075838979::780,EPAY,Table,Epay,Epay
-1075838979::813,CREDIT CARD,Table,Credit Card,CreditCard
-1075838979::835,CHECK,Table,Check,Check
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1075849176::Physical Name
+1075838979::139,Employee,Table,EMPLOYEE
+1075838979::141,Movie,Table,MOVIE
+1075838979::143,Store,Table,STORE
+1075838979::158,Movie Rental Record,Table,MOVIERENTALRECORD
+1075838979::160,Movie Copy,Table,MOVIECOPY
+1075838979::242,Customer,Table,CUSTOMER
+1075838979::262,Customer Credit,Table,CUSTOMERCREDIT
+1075838979::326,Movie Store,Table,MOVIE_STORE
+1075838979::338,Payment,Table,PAYMENT
+1075838979::780,Epay,Table,EPAY
+1075838979::813,Credit Card,Table,CREDITCARD
+1075838979::835,Check,Table,CHECK

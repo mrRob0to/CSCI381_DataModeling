@@ -1,0 +1,111 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name
+1075838981::145,employee first name,Column,Employee First Name,EmpFirstName
+1075838981::146,employee address,Column,Employee Address,EmpAddress
+1075838981::147,employee phone,Column,Employee Phone,EmpPhone
+1075838981::148,store manager,Column,Store Manager,StoreManager
+1075838981::149,store address,Column,Store Address,StoreAddress
+1075838981::150,store phone,Column,Store Phone,StorePhone
+1075838981::151,store city,Column,Store City,StoreCity
+1075838981::152,store state,Column,Store State,StoreState
+1075838981::153,store zip code,Column,Store Zip Code,StoreZipCode
+1075838981::154,employee address 2,Column,Employee Address 2,EmpAddress2
+1075838981::155,store address 2,Column,Store Address 2,StoreAddress2
+1075838981::156,movie title,Column,Movie Title,MovieTitle
+1075838981::157,movie director,Column,Movie Director,MovieDirector
+1075838981::162,rental date,Column,Rental Date,RentalDate
+1075838981::163,due date,Column,Due Date,DueDate
+1075838981::164,rental status,Column,Rental Status,RentalStatus
+1075838981::165,overdue charge,Column,Overdue Charge,OverdueCharge
+1075838981::166,rental rate,Column,Rental Rate,RentalRate
+1075838981::167,rental record date,Column,Rental Record Date,RentalRecordDate
+1075838981::169,general condition,Column,General Condition,GeneralCondition
+1075838981::170,movie format,Column,Movie Format,MovieFormat
+1075838981::171,movie copy number,Column,Movie Copy Number,MoCoNum
+1075838981::173,soc sec number,Column,Soc Sec Number,SocSecNumber
+1075838981::174,hire date,Column,Hire Date,HireDate
+1075838981::175,salary,Column,Salary,Salary
+1075838981::176,email,Column,Email,Email
+1075838981::177,employee number,Column,Employee Number,EmpNumber
+1075838981::179,description,Column,Description,Description
+1075838981::180,star 1 name,Column,Star 1 Name,Star1Name
+1075838981::181,rating,Column,Rating,Rating
+1075838981::182,star 2 name,Column,Star 2 Name,Star2Name
+1075838981::183,movie number,Column,Movie Number,MovieNumber
+1075838981::185,genre,Column,Genre,Genre
+1075838981::186,rental rate,Column,Rental Rate,RentalRate
+1075838981::187,movie url,Column,Movie Url,MovieUrl
+1075838981::188,movie clip,Column,Movie Clip,MovieClip
+1075838981::189,store number,Column,Store Number,StoreNumber
+1075838981::202,soc sec number,Column,Soc Sec Number,SocSecNumber
+1075838981::204,employee phone,Column,Employee Phone,EmpPhone
+1075838981::210,movie copy number,Column,Movie Copy Number,MoCoNum
+1075838981::215,movie number,Column,Movie Number,MovieNumber
+1075838981::218,movie number,Column,Movie Number,MovieNumber
+1075838981::223,store number,Column,Store Number,StoreNumber
+1075838981::227,supervisor,Column,Supervisor,Supervisor
+1075838981::244,customer number,Column,Customer Number,CustNumber
+1075838981::246,customer address,Column,Customer Address,CustAddress
+1075838981::247,customer city,Column,Customer City,CustCity
+1075838981::248,customer first name,Column,Customer First Name,CustFirstName
+1075838981::249,customer last name,Column,Customer Last Name,CustLastName
+1075838981::250,customer state,Column,Customer State,CustState
+1075838981::251,customer zip code,Column,Customer Zip Code,CustZipCode
+1075838981::252,email,Column,Email,Email
+1075838981::259,customer number,Column,Customer Number,CustNumber
+1075838981::264,customer number,Column,Customer Number,CustNumber
+1075838981::283,CUST_number,Column,Cust_Number,
+1075838981::284,CUST_address,Column,Cust_Address,
+1075838981::285,CUST_city,Column,Cust_City,
+1075838981::286,CUST_first_name,Column,Cust_First_Name,
+1075838981::287,CUST_last_name,Column,Cust_Last_Name,
+1075838981::288,CUST_state,Column,Cust_State,
+1075838981::289,CUST_zip_code,Column,Cust_Zip_Code,
+1075838981::290,email,Column,Email,
+1075838981::292,rental_record_date,Column,Rental_Record_Date,
+1075838981::293,mo_co_num,Column,Mo_Co_Num,
+1075838981::294,movie_number,Column,Movie_Number,
+1075838981::295,rental_date,Column,Rental_Date,
+1075838981::296,due_date,Column,Due_Date,
+1075838981::297,rental_status,Column,Rental_Status,
+1075838981::298,overdue_charge,Column,Overdue_Charge,
+1075838981::299,rental_rate,Column,Rental_Rate,
+1075838981::301,movie_title,Column,Movie_Title,
+1075838981::306,Overdue_Charge_Rate,Column,Overdue_Charge_Rate,
+1075838981::308,CUST_number,Column,Cust_Number,
+1075838981::309,CUST_address,Column,Cust_Address,
+1075838981::310,CUST_city,Column,Cust_City,
+1075838981::311,CUST_first_name,Column,Cust_First_Name,
+1075838981::312,CUST_last_name,Column,Cust_Last_Name,
+1075838981::313,CUST_state,Column,Cust_State,
+1075838981::314,CUST_zip_code,Column,Cust_Zip_Code,
+1075838981::315,email,Column,Email,
+1075838981::317,rental_record_date,Column,Rental_Record_Date,
+1075838981::318,mo_co_num,Column,Mo_Co_Num,
+1075838981::319,movie_number,Column,Movie_Number,
+1075838981::320,rental_date,Column,Rental_Date,
+1075838981::321,due_date,Column,Due_Date,
+1075838981::322,rental_status,Column,Rental_Status,
+1075838981::323,overdue_charge,Column,Overdue_Charge,
+1075838981::324,rental_rate,Column,Rental_Rate,
+1075838981::325,Overdue_Charge_Rate,Column,Overdue_Charge_Rate,
+1075838981::330,movie number,Column,Movie Number,MovieNumber
+1075838981::335,store number,Column,Store Number,StoreNumber
+1075838981::340,payment transaction number,Column,Payment Transaction Number,PaymentTransactionNumber
+1075838981::342,payment type,Column,Payment Type,PaymentType
+1075838981::343,payment amount,Column,Payment Amount,PaymentAmount
+1075838981::344,payment date,Column,Payment Date,PaymentDate
+1075838981::345,payment status,Column,Payment Status,PaymentStatus
+1075838981::355,employee number,Column,Employee Number,EmpNumber
+1075838981::363,customer number,Column,Customer Number,CustNumber
+1075838981::367,payment transaction number,Column,Payment Transaction Number,PaymentTransactionNumber
+1075838981::786,payment transaction number,Column,Payment Transaction Number,PaymentTransactionNumber
+1075838981::818,payment transaction number,Column,Payment Transaction Number,PaymentTransactionNumber
+1075838981::840,payment transaction number,Column,Payment Transaction Number,PaymentTransactionNumber
+1075838981::867,check bank number,Column,Check Bank Number,CheckBankNumber
+1075838981::868,check number,Column,Check Number,CheckNumber
+1075838981::880,customer credit,Column,Customer Credit,CustCredit
+1075838981::881,epay vendor number,Column,Epay Vendor Number,EpayVendorNumber
+1075838981::882,epay account number,Column,Epay Account Number,EpayAccountNumber
+1075838981::883,credit card number,Column,Credit Card Number,CreditCardNumber
+1075838981::884,credit card exp,Column,Credit Card Exp,CreditCardExp
+1075838981::885,credit card type,Column,Credit Card Type,CreditCardType
